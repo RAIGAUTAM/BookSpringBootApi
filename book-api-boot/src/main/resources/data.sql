@@ -1,0 +1,1 @@
+insert into public.book(bookId, bookName, bookAuthor, bookPrice) values('1234','PYTHON','RAI', 1764.28);
